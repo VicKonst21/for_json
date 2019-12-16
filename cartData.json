@@ -1,4 +1,7 @@
-[
+{
+  "amount": 44390,
+  "countGoods": 8,
+  "contents": [
     {
       "id": 1,
       "title": "Yokohama",
@@ -17,4 +20,5 @@
       "price": 4150,
       "quantity": 4
     }
-  ]
+    ]
+}
